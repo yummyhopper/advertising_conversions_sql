@@ -1,7 +1,6 @@
 # Advertising Conversions In SQL 
 
-![advertising](https://github.com/user-attachments/assets/721eb79d-b7b1-402a-98c3-d27e4c516bda)
-
+![mdm_database_large_1024x576](https://github.com/user-attachments/assets/5f950173-d203-4b8c-97b6-0bf61352c5d2)
 
 ### Introduction
 
