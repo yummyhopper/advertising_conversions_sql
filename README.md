@@ -1,6 +1,7 @@
 # Advertising Conversions In SQL 
 
-![Uploading advertising.jpg…]()
+![advertising](https://github.com/user-attachments/assets/721eb79d-b7b1-402a-98c3-d27e4c516bda)
+
 
 ### Introduction
 
